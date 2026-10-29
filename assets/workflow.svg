@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="142" viewBox="0 0 1280 142" role="img" aria-label="Engineering approach: Design, Build, Secure, Scale">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0A1215"/><stop offset="1" stop-color="#0D2019"/></linearGradient><linearGradient id="l" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#008E60"/><stop offset="1" stop-color="#3EEEA4"/></linearGradient></defs>
+<rect x="1" y="1" width="1278" height="140" rx="15" fill="url(#bg)" stroke="#244E3C" stroke-width="2"/>
+<text x="30" y="34" fill="#74B39A" font-family="Consolas,'DejaVu Sans Mono',monospace" font-size="12" letter-spacing="2">ENGINEERING PIPELINE / STANDARD OPERATING PRINCIPLES</text>
+<g fill="#102B21" stroke="#286E4C"><rect x="29" y="50" width="263" height="70" rx="10"/><rect x="350" y="50" width="263" height="70" rx="10"/><rect x="671" y="50" width="263" height="70" rx="10"/><rect x="992" y="50" width="259" height="70" rx="10"/></g>
+<g font-family="'Inter Display','DejaVu Sans',Arial,sans-serif" font-size="21" font-weight="700" fill="#E6F7EF"><text x="53" y="92">01  DESIGN</text><text x="374" y="92">02  BUILD</text><text x="695" y="92">03  SECURE</text><text x="1016" y="92">04  SCALE</text></g>
+<g fill="#4EE7A2"><path d="M315 80l10 7-10 7" stroke="#4EE7A2" stroke-width="2" fill="none"/><path d="M636 80l10 7-10 7" stroke="#4EE7A2" stroke-width="2" fill="none"/><path d="M957 80l10 7-10 7" stroke="#4EE7A2" stroke-width="2" fill="none"/></g>
+</svg>

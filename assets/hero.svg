@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">Vu Minh Nhat — Full-Stack Developer and System Architect</title>
+<desc id="desc">A clean premium dark terminal identity panel, green accents, and an NV monogram.</desc>
+<defs>
+  <linearGradient id="base" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1114"/><stop offset=".53" stop-color="#0D1819"/><stop offset="1" stop-color="#071511"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00FF87"/><stop offset="1" stop-color="#7EF9C1"/></linearGradient>
+  <linearGradient id="subline" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00FF87" stop-opacity=".8"/><stop offset="1" stop-color="#00FF87" stop-opacity="0"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#00F18C" stop-opacity=".11"/><stop offset="1" stop-color="#00F18C" stop-opacity="0"/></radialGradient>
+  <pattern id="dot" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r=".9" fill="#4FA989" opacity=".18"/></pattern>
+  <clipPath id="frame"><rect width="1280" height="420" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+  <rect width="1280" height="420" fill="url(#base)"/>
+  <rect x="0" y="0" width="1280" height="420" fill="url(#dot)" opacity=".65"/>
+  <circle cx="1090" cy="222" r="265" fill="url(#halo)"/>
+  <path d="M0 61H1280" stroke="#29423A"/>
+  <path d="M0 417H1280" stroke="url(#subline)" stroke-width="3"/>
+  <g font-family="'DejaVu Sans Mono',Consolas,monospace">
+   <circle cx="34" cy="31" r="5.5" fill="#E6706C"/><circle cx="56" cy="31" r="5.5" fill="#D8AA62"/><circle cx="78" cy="31" r="5.5" fill="#50C38F"/>
+   <text x="107" y="36" fill="#9CB3A9" font-size="14">nhatvu@workstation:~/profile</text>
+   <text x="1250" y="36" text-anchor="end" font-size="13" fill="#72E9AE" letter-spacing=".6">●  ENCRYPTED SESSION</text>
+   <text x="74" y="122" font-size="15" letter-spacing="2.4" fill="#68DFA5">[ 01 ] / SYSTEM IDENTITY</text>
+   <text x="76" y="165" font-size="17" fill="#88A49B"><tspan fill="#29EF92">$</tspan> cat ~/about/identity.yml</text>
+   <text x="77" y="350" font-size="16" fill="#87A49A">DESIGN SYSTEMS  <tspan fill="#29E79B">/</tspan>  SHIP SOFTWARE  <tspan fill="#29E79B">/</tspan>  THINK SECURITY</text>
+  </g>
+  <text x="70" y="248" font-family="'Inter Display','DejaVu Sans',Arial,sans-serif" font-weight="800" font-size="79" fill="#EFFBF5" letter-spacing="-3">VU MINH <tspan fill="url(#accent)">NHAT.</tspan></text>
+  <text x="77" y="298" font-family="'Inter Display','DejaVu Sans',Arial,sans-serif" font-size="23" font-weight="500" fill="#B4C9BF" letter-spacing="1">FULL-STACK DEVELOPER  /  SYSTEM ARCHITECT</text>
+  <path d="M77 319H722" stroke="url(#subline)" stroke-width="1.6"/>
+  <rect x="74" y="376" width="141" height="22" rx="11" fill="#0D2C22" stroke="#275B46"/>
+  <circle cx="91" cy="387" r="3.5" fill="#23EE90"/>
+  <text x="105" y="392" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="10.5" fill="#93E7B7">AVAILABLE TO BUILD</text>
+  <text x="234" y="391" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="12" fill="#7A9C8D">@nhatvu10092003</text>
+  <!-- right-side engineering instrument -->
+  <g transform="translate(1025 232)">
+    <circle r="154" fill="#0C211B" opacity=".65"/>
+    <circle r="142" stroke="#2C6950" stroke-width="1.2" fill="none" opacity=".65"/>
+    <circle r="118" stroke="#2C6950" stroke-width="1" stroke-dasharray="3 9" fill="none" opacity=".8"/>
+    <circle r="96" stroke="#20523E" stroke-width="1.5" fill="#0B1818"/>
+    <path d="M-106 -107L-93 -107M93 106L106 106M-141 0H-124M125 0H143M0 -144V-125M0 125V144" stroke="#4FC693" stroke-width="2" opacity=".8"/>
+    <path d="M0 -80L70 -40V40L0 80L-70 40V-40Z" stroke="url(#accent)" stroke-width="2.5" fill="#10271F"/>
+    <path d="M0 -67L57 -34V34L0 67L-57 34V-34Z" fill="none" stroke="#416F56" stroke-width="1"/>
+    <text x="0" y="16" fill="#ECFFF5" text-anchor="middle" font-family="'Inter Display','DejaVu Sans',Arial,sans-serif" font-size="51" letter-spacing="-4" font-weight="800">NV</text>
+    <circle cx="114" cy="-97" r="6" fill="#16EA85"/>
+    <circle cx="-114" cy="97" r="4" fill="#16EA85"/>
+    <circle cx="143" cy="0" r="3" fill="#8BEABB"/>
+  </g>
+  <path d="M845 104H888L913 129M858 357H887L914 330" fill="none" stroke="#3D7757" stroke-width="1" opacity=".8"/>
+  <g fill="#89B5A1" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11"><text x="838" y="95">SYS.ARCH / 01</text><text x="851" y="370">CORE / ACTIVE</text></g>
+</g>
+<rect x="1" y="1" width="1278" height="418" rx="21" fill="none" stroke="#305C46" stroke-width="2" opacity=".85"/>
+</svg>
